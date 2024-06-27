@@ -1,4 +1,4 @@
-import { Clipboard, closeMainWindow, open, showHUD } from '@raycast/api'
+import { Clipboard, closeMainWindow, showHUD } from '@raycast/api'
 import { screenshot } from './screenshot'
 import { recognizeText } from './ocr'
 
